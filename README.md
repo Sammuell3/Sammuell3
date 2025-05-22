@@ -1,18 +1,32 @@
+# ✠ Salve!, eu sou Samuel Barros 👋
+ 
+Um programador católico e um agorista (um libertário consistente)
 
-- 🌱 Estudando HTML,CSS,React,JS e TyperScript
+## 🛠️ Tecnologias
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Sammuell3">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sammuell3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammuell3&layout=compact&langs_count=7&theme=dark"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sammuell3&theme=onedark&border_radius=8.5)](https://git.io/streak-stats)
+
+</div>
+<div align="center">
+
+<a href="https://github.com/sammuell3">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sammuell3&show_icons=true&theme=onedark&hide=prs&hide_rank=true&count_private=true"/>
+</a>
+<a href="https://github.com/sammuell3">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammuell3&layout=compact&theme=onedark"/>
+</a>
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sam-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Sam-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
-##
