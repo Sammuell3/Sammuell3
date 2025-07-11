@@ -1,6 +1,6 @@
 # ✠ Salve!, eu sou Sammmuell3 👋
  
-Um programador católico e um agorista (um libertário consistente)
+Dev Fullstack
 
 ## 🛠️ Tecnologias
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
