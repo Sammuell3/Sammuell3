@@ -1,4 +1,4 @@
-# ✠ Salve!, eu sou Sammmuell3 👋
+# ✠ Salve!, eu sou o Samuel👋
  
 Dev Fullstack
 
